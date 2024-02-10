@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Version original du conflit 
 
+=======
+nouvelle ligne ajoutée par Emma 
+>>>>>>> ed53f0695102220c33d1ba10580018c46d59fb8f
 
